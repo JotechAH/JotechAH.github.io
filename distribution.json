@@ -435,6 +435,16 @@
           }
         },
         {
+          "id": "net.darkhax:bookshelf:17.0.3@jar",
+          "name": "Bookshelf",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 313125,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/Bookshelf-Forge-1.19.3-17.0.3.jar",
+            "MD5": "471f7e41908ad5ec96de328d4a41ce59"
+          }
+        },
+        {
           "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
@@ -495,6 +505,16 @@
           }
         },
         {
+          "id": "atomicstryker.dynamiclights.server:dynamiclights:1.19.3.1@jar",
+          "name": "Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44830,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/dynamiclights-1.19.3.1.jar",
+            "MD5": "ea3335e91cb0e210709864b8f1f0d587"
+          }
+        },
+        {
           "id": "de.geheimagentnr1:easier_sleeping:2.1.2@jar",
           "name": "Easier Sleeping",
           "type": "ForgeMod",
@@ -502,6 +522,16 @@
             "size": 55271,
             "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/EasierSleeping-1.19.3-2.1.2.jar",
             "MD5": "d499860c521aa824828523b10aa3b989"
+          }
+        },
+        {
+          "id": "net.darkhax:enchdesc:14.0.7@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63125,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/EnchantmentDescriptions-Forge-1.19.3-14.0.7.jar",
+            "MD5": "d4f7aabaf37a4d77eacd843de6135770"
           }
         },
         {
