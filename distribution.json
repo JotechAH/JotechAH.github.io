@@ -575,6 +575,19 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.19.3_HD_U_I3@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6974179,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/optionalon/OptiFine_1.19.3_HD_U_I3.jar",
+            "MD5": "5a5ed2c6abcd7763d075877fcf40ac86"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.sonicether.soundphysics:sound_physics_remastered:1.19.3-1.0.18@jar",
           "name": "Sound Physics Remastered",
           "type": "ForgeMod",
@@ -755,13 +768,14 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.3_HD_U_I3@jar",
-          "name": "Optifine",
-          "type": "ForgeMod",
+          "id": "reflectivity.properties",
+          "name": "reflectivity.properties",
+          "type": "File",
           "artifact": {
-            "size": 6974179,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/OptiFine_1.19.3_HD_U_I3.jar",
-            "MD5": "5a5ed2c6abcd7763d075877fcf40ac86",
+            "size": 1438,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/files/config/sound_physics_remastered/reflectivity.properties",
+            "MD5": "ba69914ae2dc28a19065ac9171c3e8a7",
+            "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
         {
