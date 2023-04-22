@@ -616,6 +616,16 @@
           }
         },
         {
+          "id": "me.flashyreese.mods:reeses_sodium_options:1.0.4-mc1.19.3@jar",
+          "name": "TexTrue's Rubidium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194786,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/TextruesRubidiumOptions-1.0.4-mc1.19.3.jar",
+            "MD5": "6b902d634279f0b1c758fb164f0faeab"
+          }
+        },
+        {
           "id": "info.u_team.u_team_core:uteamcore:4.5.3.240@jar",
           "name": "U Team Core",
           "type": "ForgeMod",
