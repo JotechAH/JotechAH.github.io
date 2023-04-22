@@ -1,11 +1,14 @@
 {
   "version": "1.0.0",
+  "java": {
+      "oracle": "https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.exe"
+  },
   "servers": [
     {
       "id": "Turbocraft-1.19.3",
       "name": "Turbocraft",
       "description": "Turbocraft",
-      "icon": null,
+      "icon": "https://jotechah.github.io/icon.png",
       "version": "1.0.0",
       "address": "92.162.74.172:25565",
       "minecraftVersion": "1.19.3",
@@ -20,7 +23,7 @@
           "artifact": {
             "size": 7377,
             "MD5": "3a4c4aa69161289dcd6ce4b7bf996eec",
-            "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/lowcodelanguage/1.19.3-44.1.23/lowcodelanguage-1.19.3-44.1.23.jar"
+            "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/lowcodelanguage/1.19.3-44.1.23/lowcodelanguage-1.19.3-44.1.23.jar"
           },
           "subModules": [
             {
@@ -30,7 +33,7 @@
               "artifact": {
                 "size": 15504,
                 "MD5": "788d5338ff8d7f88505687df452a0589",
-                "url": "https://traumacraft.000webhostapp.com/repo/versions/1.19.3-forge-44.1.23/1.19.3-forge-44.1.23.json"
+                "url": "https://jotechah.github.io/repo/versions/1.19.3-forge-44.1.23/1.19.3-forge-44.1.23.json"
               }
             },
             {
@@ -41,7 +44,7 @@
               "artifact": {
                 "size": 113449,
                 "MD5": "b8013fae6e0dac2f26d842a7598696df",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/fmlcore/1.19.3-44.1.23/fmlcore-1.19.3-44.1.23.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/fmlcore/1.19.3-44.1.23/fmlcore-1.19.3-44.1.23.jar"
               },
               "subModules": []
             },
@@ -53,7 +56,7 @@
               "artifact": {
                 "size": 16351,
                 "MD5": "c3a8ff96c5f5271086dfe1a6a90f8429",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/javafmllanguage/1.19.3-44.1.23/javafmllanguage-1.19.3-44.1.23.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/javafmllanguage/1.19.3-44.1.23/javafmllanguage-1.19.3-44.1.23.jar"
               },
               "subModules": []
             },
@@ -65,7 +68,7 @@
               "artifact": {
                 "size": 4986,
                 "MD5": "a9886fbf26a734fbb786bb50e8a53483",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/mclanguage/1.19.3-44.1.23/mclanguage-1.19.3-44.1.23.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/mclanguage/1.19.3-44.1.23/mclanguage-1.19.3-44.1.23.jar"
               },
               "subModules": []
             },
@@ -77,7 +80,7 @@
               "artifact": {
                 "size": 2654364,
                 "MD5": "8cd028f38661ba1a92d4584769af3893",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/forge/1.19.3-44.1.23/forge-1.19.3-44.1.23-universal.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/forge/1.19.3-44.1.23/forge-1.19.3-44.1.23-universal.jar"
               },
               "subModules": []
             },
@@ -89,7 +92,7 @@
               "artifact": {
                 "size": 5338403,
                 "MD5": "7ff5a9202bd33a753a4e125675530213",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/forge/1.19.3-44.1.23/forge-1.19.3-44.1.23-client.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/forge/1.19.3-44.1.23/forge-1.19.3-44.1.23-client.jar"
               },
               "subModules": []
             },
@@ -101,7 +104,7 @@
               "artifact": {
                 "size": 18041472,
                 "MD5": "3418fd778c6b25047922060ee2d2f38b",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-srg.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-srg.jar"
               },
               "subModules": []
             },
@@ -113,7 +116,7 @@
               "artifact": {
                 "size": 12074492,
                 "MD5": "49f0a5f025c4b6024e2baae904306b04",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-slim.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-slim.jar"
               },
               "subModules": []
             },
@@ -125,7 +128,7 @@
               "artifact": {
                 "size": 10629718,
                 "MD5": "6bda458a7cc4ea9822f1d4d233f4b10b",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-extra.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-extra.jar"
               },
               "subModules": []
             },
@@ -136,7 +139,7 @@
               "artifact": {
                 "size": 87783,
                 "MD5": "8a4e7e2770d7147d7551d1f3ad835baa",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar"
+                "url": "https://jotechah.github.io/repo/lib/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar"
               }
             },
             {
@@ -146,7 +149,7 @@
               "artifact": {
                 "size": 122176,
                 "MD5": "e1c3b96035117ab516ffe0de9bd696e0",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/ow2/asm/asm/9.3/asm-9.3.jar"
               }
             },
             {
@@ -156,7 +159,7 @@
               "artifact": {
                 "size": 72716,
                 "MD5": "16e6ac17d33ad97baa415c42e9d93d38",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar"
               }
             },
             {
@@ -166,7 +169,7 @@
               "artifact": {
                 "size": 52669,
                 "MD5": "f087bfb911ff93957e44860de3e73c46",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar"
               }
             },
             {
@@ -176,7 +179,7 @@
               "artifact": {
                 "size": 85682,
                 "MD5": "d6d0ac4e5c0be9a25a426c70c714b17b",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar"
               }
             },
             {
@@ -186,7 +189,7 @@
               "artifact": {
                 "size": 34276,
                 "MD5": "11e43c0220b3f6b4791b8abf7b4cc7ef",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar"
               }
             },
             {
@@ -196,7 +199,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -206,7 +209,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -216,7 +219,7 @@
               "artifact": {
                 "size": 52624,
                 "MD5": "7c93693a70962a1c1893e3c058dca5cf",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
               }
             },
             {
@@ -226,7 +229,7 @@
               "artifact": {
                 "size": 32714,
                 "MD5": "8c04b8c26ac1d55c281bfeaa71731414",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
               }
             },
             {
@@ -236,7 +239,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -246,7 +249,7 @@
               "artifact": {
                 "size": 130263,
                 "MD5": "3e171edcc29e762d2ecafffabb9e9341",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
+                "url": "https://jotechah.github.io/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
               }
             },
             {
@@ -256,7 +259,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -266,7 +269,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://jotechah.github.io/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -276,7 +279,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://jotechah.github.io/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -286,7 +289,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -296,7 +299,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -306,7 +309,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -316,7 +319,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -326,7 +329,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -336,7 +339,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -346,7 +349,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://jotechah.github.io/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -356,7 +359,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -366,7 +369,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -376,7 +379,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://jotechah.github.io/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -386,7 +389,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -396,7 +399,7 @@
               "artifact": {
                 "size": 261270,
                 "MD5": "a5b17b652c619f627695d5f27da6024f",
-                "url": "https://traumacraft.000webhostapp.com/repo/lib/net/minecraftforge/fmlloader/1.19.3-44.1.23/fmlloader-1.19.3-44.1.23.jar"
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/fmlloader/1.19.3-44.1.23/fmlloader-1.19.3-44.1.23.jar"
               }
             }
           ]
@@ -407,7 +410,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25824501,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/alexsmobs-1.22.1.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/alexsmobs-1.22.1.jar",
             "MD5": "e35801c8cc90f85012d0756246098f57"
           }
         },
@@ -417,7 +420,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 634308,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/balm-forge-1.19.3-5.0.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/balm-forge-1.19.3-5.0.0.jar",
             "MD5": "d723c968b93694b879da4df2b9ceb1b9"
           }
         },
@@ -427,7 +430,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21719969,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/BiomesOPlenty-1.19.3-17.2.0.537.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/BiomesOPlenty-1.19.3-17.2.0.537.jar",
             "MD5": "0e125de17be7680753c6045d51c25931"
           }
         },
@@ -437,7 +440,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2218257,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/cfm-7.0.0-pre35-1.19.3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/cfm-7.0.0-pre35-1.19.3.jar",
             "MD5": "0d92957129757632a45979b8a707e584"
           }
         },
@@ -447,7 +450,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 149288,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/chunkloaders-1.2.3-forge-mc1.19.3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/chunkloaders-1.2.3-forge-mc1.19.3.jar",
             "MD5": "29ed9078f08c125cfa4e864447a3d019"
           }
         },
@@ -457,7 +460,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3069682,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/citadel-2.3.1-1.19.3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/citadel-2.3.1-1.19.3.jar",
             "MD5": "ccf1b42f3cf40976a1b6d612be3c4a07"
           }
         },
@@ -467,7 +470,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1153269,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/cloth-config-9.0.94-forge.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/cloth-config-9.0.94-forge.jar",
             "MD5": "9bffec18136a1b6ebbd5b9ec7b24d9d3"
           }
         },
@@ -477,7 +480,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 223116,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/corpse-1.19.3-1.0.3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/corpse-1.19.3-1.0.3.jar",
             "MD5": "8a5489ddea141358a525d9460f4b667c"
           }
         },
@@ -487,7 +490,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 270687,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/curios-forge-1.19.3-5.1.4.1.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/curios-forge-1.19.3-5.1.4.1.jar",
             "MD5": "2a42607391ce7323364c7c91a81e8c0b"
           }
         },
@@ -497,7 +500,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 55271,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/EasierSleeping-1.19.3-2.1.2.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/EasierSleeping-1.19.3-2.1.2.jar",
             "MD5": "d499860c521aa824828523b10aa3b989"
           }
         },
@@ -507,7 +510,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 413201,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/FallingTree-1.19.3-3.11.2.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/FallingTree-1.19.3-3.11.2.jar",
             "MD5": "cb7293ebfd3a310c71f36389ea9d9351"
           }
         },
@@ -517,7 +520,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3184581,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/fantasyfurniture-1.19.3-7.0.8.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/fantasyfurniture-1.19.3-7.0.8.jar",
             "MD5": "54eca4a1dea465309d4c4d80fe538f72"
           }
         },
@@ -527,7 +530,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1105288,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/jei-1.19.3-forge-12.4.0.22.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/jei-1.19.3-forge-12.4.0.22.jar",
             "MD5": "888e5d9ee2f0e866b5d41f04e4c53965"
           }
         },
@@ -537,7 +540,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 468931,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/majrusz-library-1.19.3-3.3.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/majrusz-library-1.19.3-3.3.0.jar",
             "MD5": "35ad099ab342a01e3496c9b355287788"
           }
         },
@@ -547,7 +550,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 144477,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/majruszs-accessories-1.19.3-1.1.4.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/majruszs-accessories-1.19.3-1.1.4.jar",
             "MD5": "c75b871e3e6f4c74eb76668e5cc91983"
           }
         },
@@ -557,7 +560,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 694492,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/majruszs-difficulty-1.19.3-1.7.3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/majruszs-difficulty-1.19.3-1.7.3.jar",
             "MD5": "4f72f6a2631c13b7c9058a74f100c0d6"
           }
         },
@@ -567,7 +570,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 162390,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/majruszs-enchantments-1.19.3-1.8.1.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/majruszs-enchantments-1.19.3-1.8.1.jar",
             "MD5": "ba306c69d12a7b2770fe554f6d098fd0"
           }
         },
@@ -577,7 +580,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6974179,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/OptiFine_1.19.3_HD_U_I3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/OptiFine_1.19.3_HD_U_I3.jar",
             "MD5": "5a5ed2c6abcd7763d075877fcf40ac86"
           }
         },
@@ -587,7 +590,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 101729,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/soundphysics-forge-1.19.3-1.0.18.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/soundphysics-forge-1.19.3-1.0.18.jar",
             "MD5": "adfde21505accb31fac88cb0c2995c7c"
           }
         },
@@ -597,7 +600,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 205936,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/supermartijn642configlib-1.1.6b-forge-mc1.19.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/supermartijn642configlib-1.1.6b-forge-mc1.19.jar",
             "MD5": "559d896dad9316c3fc8ce1de245d9c4d"
           }
         },
@@ -607,7 +610,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 472638,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/supermartijn642corelib-1.1.7-forge-mc1.19.3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/supermartijn642corelib-1.1.7-forge-mc1.19.3.jar",
             "MD5": "561e535198c2e3c7a3bca1004a98243e"
           }
         },
@@ -617,7 +620,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 102168,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/TerraBlender-forge-1.19.3-2.1.0.132.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/TerraBlender-forge-1.19.3-2.1.0.132.jar",
             "MD5": "03b12f9de212c787596a64d1e65429d3"
           }
         },
@@ -627,7 +630,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398041,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/u_team_core-1.19.3-4.5.3.240.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/u_team_core-1.19.3-4.5.3.240.jar",
             "MD5": "bc6f5d60d5f9285a2d97ac9b243d1bf1"
           }
         },
@@ -637,7 +640,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 176320,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/useful_backpacks-1.19.3-1.14.3.109.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/useful_backpacks-1.19.3-1.14.3.109.jar",
             "MD5": "ac2d1b53efc60ad6c8ed6fd9b9b45746"
           }
         },
@@ -647,7 +650,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7847776,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/voicechat-forge-1.19.3-2.3.28.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/voicechat-forge-1.19.3-2.3.28.jar",
             "MD5": "d5b0ce805afb4c8ac0f3aa9ec65b9e7e"
           }
         },
@@ -657,7 +660,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 420028,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/waystones-forge-1.19.3-12.2.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/waystones-forge-1.19.3-12.2.0.jar",
             "MD5": "24d9fa9bd006fb3afde9b498ae770067"
           }
         },
@@ -667,7 +670,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1302979,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/Xaeros_Minimap_23.3.2_Forge_1.19.3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/Xaeros_Minimap_23.3.2_Forge_1.19.3.jar",
             "MD5": "6e7635d08e736a82f1a6910557c52d55"
           }
         },
@@ -677,7 +680,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 285885,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsApi-1.19.3-Forge-3.9.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsApi-1.19.3-Forge-3.9.0.jar",
             "MD5": "ce2acf108c9bfbbf8356fb17261edc0a"
           }
         },
@@ -687,7 +690,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 987318,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterDesertTemples-1.19.3-Forge-2.3.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterDesertTemples-1.19.3-Forge-2.3.0.jar",
             "MD5": "858b401d541a1d7d7b882a0381f20f03"
           }
         },
@@ -697,7 +700,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 996240,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterDungeons-1.19.3-Forge-3.3.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterDungeons-1.19.3-Forge-3.3.0.jar",
             "MD5": "b81a222b849839965edfcee4b8c22f99"
           }
         },
@@ -707,7 +710,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 385612,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterMineshafts-1.19.3-Forge-3.3.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterMineshafts-1.19.3-Forge-3.3.0.jar",
             "MD5": "40dec049d554207f51864014930c974d"
           }
         },
@@ -717,7 +720,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 820571,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterNetherFortresses-1.19.3-Forge-1.1.1.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterNetherFortresses-1.19.3-Forge-1.1.1.jar",
             "MD5": "7fa7d8445d529c3e4f0778f59f3b2816"
           }
         },
@@ -727,7 +730,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1403755,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterOceanMonuments-1.19.3-Forge-2.2.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterOceanMonuments-1.19.3-Forge-2.2.0.jar",
             "MD5": "62122d7ed0dfc13f16b2a5df6b9c2798"
           }
         },
@@ -737,7 +740,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 412362,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterStrongholds-1.19.3-Forge-3.3.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterStrongholds-1.19.3-Forge-3.3.0.jar",
             "MD5": "c1230bbbdd87c240d1203347c3c5d4ca"
           }
         },
@@ -747,7 +750,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 241840,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterWitchHuts-1.19.3-Forge-2.2.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterWitchHuts-1.19.3-Forge-2.2.0.jar",
             "MD5": "b2e8f2765669e9733e18823fcf97c762"
           }
         },
@@ -757,7 +760,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 400808,
-            "url": "https://traumacraft.000webhostapp.com/servers/Turbocraft-1.19.3/forgemods/required/YungsExtras-1.19.3-Forge-3.2.0.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsExtras-1.19.3-Forge-3.2.0.jar",
             "MD5": "a527af4bb46c13d9e9a0b3edb4e824bf"
           }
         }
