@@ -574,7 +574,36 @@
             "MD5": "ba306c69d12a7b2770fe554f6d098fd0"
           }
         },
-        
+        {
+          "id": "net.coderbot.iris:oculus:1.2.8a@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1886544,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/oculus-mc1.19.2-1.2.8a.jar",
+            "MD5": "4bff325ca61cbfa99185a93c13cba49c"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.3@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 619719,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/rubidium-0.6.3.jar",
+            "MD5": "5118824b6bbd9edc21037309635dd6ab"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra.client:sodiumextra:0.4.17+mc1.19.3-build.73@jar",
+          "name": "Rubidium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299593,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/rubidium-extra-0.4.17+mc1.19.3-build.73.jar",
+            "MD5": "b0c2a60c7cd59f9b3c4024e64c6fb4a9"
+          }
+        },
         {
           "id": "com.sonicether.soundphysics:sound_physics_remastered:1.19.3-1.0.18@jar",
           "name": "Sound Physics Remastered",
@@ -613,6 +642,16 @@
             "size": 102168,
             "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/TerraBlender-forge-1.19.3-2.1.0.132.jar",
             "MD5": "03b12f9de212c787596a64d1e65429d3"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods:reeses_sodium_options:1.0.4-mc1.19.3@jar",
+          "name": "TexTrue's Rubidium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194786,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/TextruesRubidiumOptions-1.0.4-mc1.19.3.jar",
+            "MD5": "6b902d634279f0b1c758fb164f0faeab"
           }
         },
         {
