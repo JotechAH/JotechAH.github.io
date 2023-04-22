@@ -575,16 +575,6 @@
           }
         },
         {
-          "id": "net.coderbot.iris:oculus:1.2.8a@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1886544,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/oculus-mc1.19.2-1.2.8a.jar",
-            "MD5": "4bff325ca61cbfa99185a93c13cba49c"
-          }
-        },
-        {
           "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.3@jar",
           "name": "Rubidium",
           "type": "ForgeMod",
