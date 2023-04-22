@@ -755,14 +755,13 @@
           }
         },
         {
-          "id": "OptiFine_1.19.3_HD_U_I3.jar",
-          "name": "OptiFine_1.19.3_HD_U_I3.jar",
-          "type": "File",
+          "id": "net.optifine:optifine:1.19.3_HD_U_I3.jar",
+          "name": "Optifine",
+          "type": "ForgeMod",
           "artifact": {
             "size": 6974179,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/files/mods/OptiFine_1.19.3_HD_U_I3.jar",
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/OptiFine_1.19.3_HD_U_I3.jar",
             "MD5": "5a5ed2c6abcd7763d075877fcf40ac86",
-            "path": "mods/OptiFine_1.19.3_HD_U_I3.jar"
           }
         },
         {
