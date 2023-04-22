@@ -575,16 +575,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.3_HD_U_I3@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6974179,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/OptiFine_1.19.3_HD_U_I3.jar",
-            "MD5": "5a5ed2c6abcd7763d075877fcf40ac86"
-          }
-        },
-        {
           "id": "com.sonicether.soundphysics:sound_physics_remastered:1.19.3-1.0.18@jar",
           "name": "Sound Physics Remastered",
           "type": "ForgeMod",
@@ -762,6 +752,28 @@
             "size": 400808,
             "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsExtras-1.19.3-Forge-3.2.0.jar",
             "MD5": "a527af4bb46c13d9e9a0b3edb4e824bf"
+          }
+        },
+        {
+          "id": "OptiFine_1.19.3_HD_U_I3.jar",
+          "name": "OptiFine_1.19.3_HD_U_I3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6974179,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/files/mods/OptiFine_1.19.3_HD_U_I3.jar",
+            "MD5": "5a5ed2c6abcd7763d075877fcf40ac86",
+            "path": "mods/OptiFine_1.19.3_HD_U_I3.jar"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 76,
+            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/files/servers.dat",
+            "MD5": "3cec9c1ae88b7fc09840935486f566a9",
+            "path": "servers.dat"
           }
         }
       ]
