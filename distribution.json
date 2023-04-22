@@ -755,7 +755,7 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.3_HD_U_I3.jar@jar",
+          "id": "net.optifine:optifine:1.19.3_HD_U_I3@jar",
           "name": "Optifine",
           "type": "ForgeMod",
           "artifact": {
