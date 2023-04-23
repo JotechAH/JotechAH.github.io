@@ -455,6 +455,16 @@
           }
         },
         {
+          "id": "net.darkhax:bookshelf:16.2.18@jar",
+          "name": "Bookshelf",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 320093,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Bookshelf-Forge-1.19.2-16.2.18.jar",
+            "MD5": "57c9034e0d377aa83fe042c42e5ef555"
+          }
+        },
+        {
           "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
@@ -555,6 +565,16 @@
           }
         },
         {
+          "id": "net.darkhax:enchdesc:13.0.14@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63128,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar",
+            "MD5": "dc341c92952f6b6c790b6e1c61a1e15c"
+          }
+        },
+        {
           "id": "levosilimo.everlastingskins:everlastingskins:0.0.0.3@jar",
           "name": "Everlasting Skins",
           "type": "ForgeMod",
@@ -615,6 +635,16 @@
           }
         },
         {
+          "id": "snownee.jade:jade:8.8.1@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420224,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Jade-1.19.1-forge-8.8.1.jar",
+            "MD5": "44f52abc2ff9cacbb56e854a12697f0c"
+          }
+        },
+        {
           "id": "mezz.jei:jei:11.6.0.1015@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -665,6 +695,26 @@
           }
         },
         {
+          "id": "net.coderbot.iris:oculus:1.2.8a@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1886544,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/oculus-mc1.19.2-1.2.8a.jar",
+            "MD5": "4bff325ca61cbfa99185a93c13cba49c"
+          }
+        },
+        {
+          "id": "com.matyrobbrt:okzoomer:2.1.1@jar",
+          "name": "OkZoomer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120083,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/okzoomer-forge-1.19-2.1.1.jar",
+            "MD5": "8d89bf58bf89ccaab83c3cfbb0a9670c"
+          }
+        },
+        {
           "id": "shadows.placebo:placebo:7.1.7@jar",
           "name": "Placebo",
           "type": "ForgeMod",
@@ -672,6 +722,26 @@
             "size": 231342,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Placebo-1.19.2-7.1.7.jar",
             "MD5": "ba2d8d78d1fdb5e40bd7e28ce68903c0"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.2a@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1383807,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/rubidium-0.6.2a.jar",
+            "MD5": "52245d079adf96ddacc61cc90e2f8c7c"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra.client:sodiumextra:0.4.17+mc1.19.2-build.71@jar",
+          "name": "Rubidium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 298970,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/rubidium-extra-0.4.17+mc1.19.2-build.71.jar",
+            "MD5": "9eeff84fa19e71eee4cb3c8e3ac18b76"
           }
         },
         {
@@ -712,6 +782,16 @@
             "size": 96499,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/TerraBlender-forge-1.19.2-2.0.1.136.jar",
             "MD5": "ed2fe6eb99f5d399db71e71f209de2ac"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods:reeses_sodium_options:1.0.4-mc1.19.2@jar",
+          "name": "TexTrue's Rubidium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194768,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/TextruesRubidiumOptions-1.0.4-mc1.19.2.jar",
+            "MD5": "cfa35950ee6e5f73b32a68878ff3cccd"
           }
         },
         {
@@ -862,6 +942,28 @@
             "size": 406444,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsExtras-1.19.2-Forge-3.1.0.jar",
             "MD5": "95e19cc18b2ff87e2138100ef077e849"
+          }
+        },
+        {
+          "id": "reflectivity.properties",
+          "name": "reflectivity.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1438,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/files/config/sound_physics_remastered/reflectivity.properties",
+            "MD5": "ba69914ae2dc28a19065ac9171c3e8a7",
+            "path": "config/sound_physics_remastered/reflectivity.properties"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 76,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/files/servers.dat",
+            "MD5": "3cec9c1ae88b7fc09840935486f566a9",
+            "path": "servers.dat"
           }
         }
       ]
