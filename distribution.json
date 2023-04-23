@@ -475,16 +475,6 @@
           }
         },
         {
-          "id": "pregenerator:chunkpregen:1.19-4.2.2@jar",
-          "name": "Chunk Pregenerator",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 386909,
-            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Chunk+Pregenerator-1.19-4.2.2.jar",
-            "MD5": "d50f160b11022cb2e870a00827ace9e6"
-          }
-        },
-        {
           "id": "com.supermartijn642:chunkloaders:1.2.3@jar",
           "name": "Chunk Loaders",
           "type": "ForgeMod",
@@ -532,26 +522,6 @@
             "size": 278394,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/curios-forge-1.19.2-5.1.4.0.jar",
             "MD5": "485c5f3dc2d5d74c4b5f08184e606334"
-          }
-        },
-        {
-          "id": "org.dynmap.forge_1_19_2:dynmap:3.5-beta-2-849@jar",
-          "name": "Dynmap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10291224,
-            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Dynmap-3.5-beta-2-forge-1.19.2.jar",
-            "MD5": "96188d8b7bddea0909dc08670e6c21c7"
-          }
-        },
-        {
-          "id": "org.dynmapblockscan.forge_1_18:dynmapblockscan:3.4-beta-5-233@jar",
-          "name": "DynmapBlockScan",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4169335,
-            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/DynmapBlockScan-3.4-beta-5-forge-1.19.jar",
-            "MD5": "9d0b968e2c638a5a1741c3d52a74af1b"
           }
         },
         {
@@ -832,16 +802,6 @@
             "size": 397819,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/waystones-forge-1.19.2-11.3.1.jar",
             "MD5": "d11288066796af8360da63e80370e6b6"
-          }
-        },
-        {
-          "id": "com.sk89q:worldedit:7.2.12+6240-87f4ae1@jar",
-          "name": "WorldEdit",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5650155,
-            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/worldedit-mod-7.2.12.jar",
-            "MD5": "35923b44d8e81af4cb310b578f689b73"
           }
         },
         {
