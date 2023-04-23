@@ -404,6 +404,466 @@
             }
           ]
         },
+        {
+          "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
+          "name": "AI-Improvements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29466,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/AI-Improvements-1.19.2-0.5.2.jar",
+            "MD5": "20eb1671a51e7741e539e85e8ce46b54"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.21.1@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25655463,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/alexsmobs-1.21.1.jar",
+            "MD5": "0ba48ab00c965c7acaa061d0844d9f17"
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:6.5.77@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 546192,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/architectury-6.5.77-forge.jar",
+            "MD5": "32bb53593431d38e2e9a17ec28af754f"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:4.5.7@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 314638,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/balm-forge-1.19.2-4.5.7.jar",
+            "MD5": "bf5a56610fa06d255fd644dff5d150ba"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:17.1.2.492@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21401843,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/BiomesOPlenty-1.19.2-17.1.2.492.jar",
+            "MD5": "9568043eef467bd0757bf51f990b30de"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2209834,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/cfm-7.0.0-pre35-1.19.2.jar",
+            "MD5": "cd3ceae9615012f62d84fa1af860a1b0"
+          }
+        },
+        {
+          "id": "pregenerator:chunkpregen:1.19-4.2.2@jar",
+          "name": "Chunk Pregenerator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 386909,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Chunk+Pregenerator-1.19-4.2.2.jar",
+            "MD5": "d50f160b11022cb2e870a00827ace9e6"
+          }
+        },
+        {
+          "id": "com.supermartijn642:chunkloaders:1.2.3@jar",
+          "name": "Chunk Loaders",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145376,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/chunkloaders-1.2.3-forge-mc1.19.jar",
+            "MD5": "7d3e9fe86ef16db0fe35a1faf67f4fa9"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.1.3@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3064068,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/citadel-2.1.3-1.19.jar",
+            "MD5": "da90c62c0d8a6402b6506950387193e8"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:8.2.88@jar",
+          "name": "Cloth Config v8 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1151677,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/cloth-config-8.2.88-forge.jar",
+            "MD5": "9ad6b6c3b72a0d23d53c7b761782082b"
+          }
+        },
+        {
+          "id": "de.maxhenkel:corpse:1.19.2-1.0.0@jar",
+          "name": "Corpse",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 220543,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/corpse-1.19.2-1.0.0.jar",
+            "MD5": "48c6552127e8aa4a6ba9b9d75aabbf6f"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:1.19.2-5.1.4.0@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 278394,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/curios-forge-1.19.2-5.1.4.0.jar",
+            "MD5": "485c5f3dc2d5d74c4b5f08184e606334"
+          }
+        },
+        {
+          "id": "org.dynmap.forge_1_19_2:dynmap:3.5-beta-2-849@jar",
+          "name": "Dynmap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10291224,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Dynmap-3.5-beta-2-forge-1.19.2.jar",
+            "MD5": "96188d8b7bddea0909dc08670e6c21c7"
+          }
+        },
+        {
+          "id": "org.dynmapblockscan.forge_1_18:dynmapblockscan:3.4-beta-5-233@jar",
+          "name": "DynmapBlockScan",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4169335,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/DynmapBlockScan-3.4-beta-5-forge-1.19.jar",
+            "MD5": "9d0b968e2c638a5a1741c3d52a74af1b"
+          }
+        },
+        {
+          "id": "de.geheimagentnr1:easier_sleeping:2.1.2@jar",
+          "name": "Easier Sleeping",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55239,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/EasierSleeping-1.19.2-2.1.2.jar",
+            "MD5": "a53e5b5eeb2dcfae5fe38703bec94301"
+          }
+        },
+        {
+          "id": "levosilimo.everlastingskins:everlastingskins:0.0.0.3@jar",
+          "name": "Everlasting Skins",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37610,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/EverlastingSkins-1.19.2_0.0.0.3.jar",
+            "MD5": "d94d405e2f82088204bc5627d5408ede"
+          }
+        },
+        {
+          "id": "fr.raksrinana:fallingtree:3.10.0@jar",
+          "name": "FallingTree",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 407197,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/FallingTree-1.19.2-3.10.0.jar",
+            "MD5": "9c3e5c2fd08bbeddf47eb4ade16ea68e"
+          }
+        },
+        {
+          "id": "xyz.apex.forge.fantasyfurniture.core:fantasyfurniture:6.7.0@jar",
+          "name": "Fantasy's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3215770,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/fantasyfurniture-1.19.2-6.7.0.jar",
+            "MD5": "d4b49008c7586cdc7cd3eeb9ed45bfa6"
+          }
+        },
+        {
+          "id": "shadows.fastfurnace:fastfurnace:7.0.0@jar",
+          "name": "FastFurnace",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5477,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/FastFurnace-1.19.2-7.0.0.jar",
+            "MD5": "5999d492e5731cde00560b25ca85aa51"
+          }
+        },
+        {
+          "id": "shadows.fastbench:fastbench:7.1.0@jar",
+          "name": "Fast Workbench",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27302,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/FastWorkbench-1.19.2-7.1.0.jar",
+            "MD5": "4baa737cc2b7d977aea520645f49c68f"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:5.0.3@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116824,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/ferritecore-5.0.3-forge.jar",
+            "MD5": "c556facc604bd4fc0824c4524c73b9b9"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:11.6.0.1015@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1090499,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/jei-1.19.2-forge-11.6.0.1015.jar",
+            "MD5": "12d0e2bfd6b5f6bf59aba91eb8950c7b"
+          }
+        },
+        {
+          "id": "com.mlib:mlib:3.3.0@jar",
+          "name": "Majrusz Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 468909,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/majrusz-library-1.19.2-3.3.0.jar",
+            "MD5": "e9b450d13df7b50bf442b069fb531a53"
+          }
+        },
+        {
+          "id": "com.majruszsaccessories:majruszsaccessories:1.1.4@jar",
+          "name": "Majrusz's Accessories",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 141751,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/majruszs-accessories-1.19.2-1.1.4.jar",
+            "MD5": "92d249860a3d819d60b31b6531a99f62"
+          }
+        },
+        {
+          "id": "com.majruszsdifficulty:majruszsdifficulty:1.7.3@jar",
+          "name": "Majrusz's Progressive Difficulty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 692218,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/majruszs-difficulty-1.19.2-1.7.3.jar",
+            "MD5": "9c51cc3feb8e17cb5bfc7129bdc51faf"
+          }
+        },
+        {
+          "id": "com.majruszsenchantments:majruszsenchantments:1.8.1@jar",
+          "name": "Majrusz's Enchantments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 160204,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/majruszs-enchantments-1.19.2-1.8.1.jar",
+            "MD5": "ea6b37342887c12803ad41814519ed9e"
+          }
+        },
+        {
+          "id": "shadows.placebo:placebo:7.1.7@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 231342,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Placebo-1.19.2-7.1.7.jar",
+            "MD5": "ba2d8d78d1fdb5e40bd7e28ce68903c0"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.19.2-1.0.18@jar",
+          "name": "Sound Physics Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 102263,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/soundphysics-forge-1.19.2-1.0.18.jar",
+            "MD5": "3682207a29510800639546cf5598364d"
+          }
+        },
+        {
+          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.6b@jar",
+          "name": "SuperMartijn642's Config Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 205936,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/supermartijn642configlib-1.1.6b-forge-mc1.19.jar",
+            "MD5": "559d896dad9316c3fc8ce1de245d9c4d"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.7@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 459642,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/supermartijn642corelib-1.1.7-forge-mc1.19.jar",
+            "MD5": "8cbe91dad8f5e83e39e3567e2dded666"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:2.0.1.136@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96499,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/TerraBlender-forge-1.19.2-2.0.1.136.jar",
+            "MD5": "ed2fe6eb99f5d399db71e71f209de2ac"
+          }
+        },
+        {
+          "id": "info.u_team.u_team_core:uteamcore:4.4.3.236@jar",
+          "name": "U Team Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 397823,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/u_team_core-1.19.2-4.4.3.236.jar",
+            "MD5": "321a5cb961cccf9d16fc7b15d99976b1"
+          }
+        },
+        {
+          "id": "info.u_team.useful_backpacks:usefulbackpacks:1.14.1.107@jar",
+          "name": "Useful Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174776,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/useful_backpacks-1.19.2-1.14.1.107.jar",
+            "MD5": "b5003a173de0872de44ff8024e197b35"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.19.2-2.4.5@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7969299,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.4.5.jar",
+            "MD5": "98b79c599d63d7933ac077a17cef0759"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:11.3.1@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 397819,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/waystones-forge-1.19.2-11.3.1.jar",
+            "MD5": "d11288066796af8360da63e80370e6b6"
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.12+6240-87f4ae1@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5650155,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/worldedit-mod-7.2.12.jar",
+            "MD5": "35923b44d8e81af4cb310b578f689b73"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:23.4.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1307013,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Xaeros_Minimap_23.4.0_Forge_1.19.1.jar",
+            "MD5": "dbdd974d764db0c9615120904572c403"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.19.2-Forge-3.8.9@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 293349,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsApi-1.19.2-Forge-3.8.9.jar",
+            "MD5": "12712e180c8e7acb45ce7530b897c9ee"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.19.2-Forge-2.2.2@jar",
+          "name": "YUNG's Better Desert Temples",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 986299,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar",
+            "MD5": "94d1f62e9247c0f9ffe4aca5eb2eaad5"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.19.2-Forge-3.2.2@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 997998,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
+            "MD5": "23c0c4dda050b0ac7b3893f6081d925d"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.19.2-Forge-3.2.0@jar",
+          "name": "YUNG's Better Mineshafts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 273471,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar",
+            "MD5": "e4b85013323e1cf4800267cd919fb928"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterfortresses:1.19.2-Forge-1.0.5@jar",
+          "name": "YUNG's Better Nether Fortresses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 820518,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar",
+            "MD5": "48acd4ffc1015fcc7825a36a9eb5f467"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.19.2-Forge-2.1.0@jar",
+          "name": "YUNG's Better Ocean Monuments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1403765,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar",
+            "MD5": "4cf44b2afd9f67cc23a71cbf767d46b8"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.19.2-Forge-3.2.0@jar",
+          "name": "YUNG's Better Strongholds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 409767,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar",
+            "MD5": "daa46493c03703aa9f6994548b43518f"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.19.2-Forge-2.1.0@jar",
+          "name": "YUNG's Better Witch Huts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 241850,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar",
+            "MD5": "352e986c69027ba98cff3f87d8358fcc"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsextras:1.19.2-Forge-3.1.0@jar",
+          "name": "YUNG's Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 406444,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/YungsExtras-1.19.2-Forge-3.1.0.jar",
+            "MD5": "95e19cc18b2ff87e2138100ef077e849"
+          }
+        }
       ]
     }
   ]
