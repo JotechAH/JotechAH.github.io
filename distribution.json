@@ -5,141 +5,141 @@
   },
   "servers": [
     {
-      "id": "Turbocraft-1.19.3",
+      "id": "Turbocraft-1.19.2",
       "name": "Turbocraft",
       "description": "Turbocraft",
       "icon": "https://jotechah.github.io/icon.png",
       "version": "1.0.0",
       "address": "92.162.74.172:25565",
-      "minecraftVersion": "1.19.3",
+      "minecraftVersion": "1.19.2",
       "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.19.3-44.1.23",
+          "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.2.8",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7377,
-            "MD5": "3a4c4aa69161289dcd6ce4b7bf996eec",
-            "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/lowcodelanguage/1.19.3-44.1.23/lowcodelanguage-1.19.3-44.1.23.jar"
+            "size": 7376,
+            "MD5": "44507e01d5ced28e34e75431779591cf",
+            "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.2.8/lowcodelanguage-1.19.2-43.2.8.jar"
           },
           "subModules": [
             {
-              "id": "1.19.3-44.1.23",
+              "id": "1.19.2-43.2.8",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 15504,
-                "MD5": "788d5338ff8d7f88505687df452a0589",
-                "url": "https://jotechah.github.io/repo/versions/1.19.3-forge-44.1.23/1.19.3-forge-44.1.23.json"
+                "size": 15497,
+                "MD5": "cf28830febe672fd9ab7d0c4dec34aa0",
+                "url": "https://jotechah.github.io/repo/versions/1.19.2-forge-43.2.8/1.19.2-forge-43.2.8.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.19.3-44.1.23",
+              "id": "net.minecraftforge:fmlcore:1.19.2-43.2.8",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 113449,
-                "MD5": "b8013fae6e0dac2f26d842a7598696df",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/fmlcore/1.19.3-44.1.23/fmlcore-1.19.3-44.1.23.jar"
+                "size": 112532,
+                "MD5": "ebe178c53979e91da8be096a2045cd4a",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.2.8/fmlcore-1.19.2-43.2.8.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.19.3-44.1.23",
+              "id": "net.minecraftforge:javafmllanguage:1.19.2-43.2.8",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16351,
-                "MD5": "c3a8ff96c5f5271086dfe1a6a90f8429",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/javafmllanguage/1.19.3-44.1.23/javafmllanguage-1.19.3-44.1.23.jar"
+                "size": 16350,
+                "MD5": "b9150e7d4b5cad975836996ebdb05b07",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.2.8/javafmllanguage-1.19.2-43.2.8.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.19.3-44.1.23",
+              "id": "net.minecraftforge:mclanguage:1.19.2-43.2.8",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4986,
-                "MD5": "a9886fbf26a734fbb786bb50e8a53483",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/mclanguage/1.19.3-44.1.23/mclanguage-1.19.3-44.1.23.jar"
+                "size": 4985,
+                "MD5": "227b6718840d74399b7aa8f0cc6864b7",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.2.8/mclanguage-1.19.2-43.2.8.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.19.3-44.1.23:universal",
+              "id": "net.minecraftforge:forge:1.19.2-43.2.8:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2654364,
-                "MD5": "8cd028f38661ba1a92d4584769af3893",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/forge/1.19.3-44.1.23/forge-1.19.3-44.1.23-universal.jar"
+                "size": 2623511,
+                "MD5": "26cdc3e9aa5d0c3474f88d0e90282ef7",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/forge/1.19.2-43.2.8/forge-1.19.2-43.2.8-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.19.3-44.1.23:client",
+              "id": "net.minecraftforge:forge:1.19.2-43.2.8:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 5338403,
-                "MD5": "7ff5a9202bd33a753a4e125675530213",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/forge/1.19.3-44.1.23/forge-1.19.3-44.1.23-client.jar"
+                "size": 5292497,
+                "MD5": "f29dbba07b371551877047ee90c91036",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/forge/1.19.2-43.2.8/forge-1.19.2-43.2.8-client.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.19.3-20221207.122022:srg",
+              "id": "net.minecraft:client:1.19.2-20220805.130853:srg",
               "name": "Minecraft Forge (client srg)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 18041472,
-                "MD5": "3418fd778c6b25047922060ee2d2f38b",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-srg.jar"
+                "size": 17332865,
+                "MD5": "70476cb0e2de11b97d913169c3b9d5a8",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.19.3-20221207.122022:slim",
+              "id": "net.minecraft:client:1.19.2-20220805.130853:slim",
               "name": "Minecraft Forge (client slim)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 12074492,
-                "MD5": "49f0a5f025c4b6024e2baae904306b04",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-slim.jar"
+                "size": 11637719,
+                "MD5": "7ae1ac1daf86584f93ae83dd916d3bdb",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.19.3-20221207.122022:extra",
+              "id": "net.minecraft:client:1.19.2-20220805.130853:extra",
               "name": "Minecraft Forge (client extra)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 10629718,
-                "MD5": "6bda458a7cc4ea9822f1d4d233f4b10b",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.3-20221207.122022/client-1.19.3-20221207.122022-extra.jar"
+                "size": 10007043,
+                "MD5": "3014cfce92de3aff55cc50908a510051",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
               },
               "subModules": []
             },
             {
-              "id": "cpw.mods:securejarhandler:2.1.6",
+              "id": "cpw.mods:securejarhandler:2.1.4",
               "name": "Minecraft Forge (securejarhandler)",
               "type": "Library",
               "artifact": {
-                "size": 87783,
-                "MD5": "8a4e7e2770d7147d7551d1f3ad835baa",
-                "url": "https://jotechah.github.io/repo/lib/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar"
+                "size": 87315,
+                "MD5": "b49ceccef2c091769f134c47c108cb8b",
+                "url": "https://jotechah.github.io/repo/lib/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar"
               }
             },
             {
@@ -353,23 +353,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "id": "net.minecraftforge:JarJarSelector:0.3.16",
               "name": "Minecraft Forge (JarJarSelector)",
               "type": "Library",
               "artifact": {
                 "size": 17374,
-                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "MD5": "5e859d6320cb16055febaedacb8b9806",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar"
               }
             },
             {
-              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "id": "net.minecraftforge:JarJarMetadata:0.3.16",
               "name": "Minecraft Forge (JarJarMetadata)",
               "type": "Library",
               "artifact": {
-                "size": 15895,
-                "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "size": 15242,
+                "MD5": "332b118877d33c715f3ee67b75bffdd7",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar"
               }
             },
             {
@@ -383,429 +383,27 @@
               }
             },
             {
-              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.16",
               "name": "Minecraft Forge (JarJarFileSystems)",
               "type": "Library",
               "artifact": {
-                "size": 32195,
-                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "size": 32052,
+                "MD5": "f4efd51f520cb4c98483c040bdc58aab",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.19.3-44.1.23",
+              "id": "net.minecraftforge:fmlloader:1.19.2-43.2.8",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 261270,
-                "MD5": "a5b17b652c619f627695d5f27da6024f",
-                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/fmlloader/1.19.3-44.1.23/fmlloader-1.19.3-44.1.23.jar"
+                "size": 261073,
+                "MD5": "5d34fbf2742a2864c9d5ffd528469f68",
+                "url": "https://jotechah.github.io/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.2.8/fmlloader-1.19.2-43.2.8.jar"
               }
             }
           ]
         },
-        {
-          "id": "com.github.alexthe666:alexsmobs:1.22.1@jar",
-          "name": "Alex's Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25824501,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/alexsmobs-1.22.1.jar",
-            "MD5": "e35801c8cc90f85012d0756246098f57"
-          }
-        },
-        {
-          "id": "net.blay09.mods:balm:5.0.0@jar",
-          "name": "Balm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 634308,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/balm-forge-1.19.3-5.0.0.jar",
-            "MD5": "d723c968b93694b879da4df2b9ceb1b9"
-          }
-        },
-        {
-          "id": "biomesoplenty.core:biomesoplenty:17.2.0.537@jar",
-          "name": "Biomes O' Plenty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21719969,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/BiomesOPlenty-1.19.3-17.2.0.537.jar",
-            "MD5": "0e125de17be7680753c6045d51c25931"
-          }
-        },
-        {
-          "id": "net.darkhax:bookshelf:17.0.3@jar",
-          "name": "Bookshelf",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 313125,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/Bookshelf-Forge-1.19.3-17.0.3.jar",
-            "MD5": "471f7e41908ad5ec96de328d4a41ce59"
-          }
-        },
-        {
-          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
-          "name": "MrCrayfish's Furniture Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2218257,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/cfm-7.0.0-pre35-1.19.3.jar",
-            "MD5": "0d92957129757632a45979b8a707e584"
-          }
-        },
-        {
-          "id": "com.supermartijn642:chunkloaders:1.2.3@jar",
-          "name": "Chunk Loaders",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 149288,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/chunkloaders-1.2.3-forge-mc1.19.3.jar",
-            "MD5": "29ed9078f08c125cfa4e864447a3d019"
-          }
-        },
-        {
-          "id": "com.github.alexthe666:citadel:2.3.1@jar",
-          "name": "Citadel",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3069682,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/citadel-2.3.1-1.19.3.jar",
-            "MD5": "ccf1b42f3cf40976a1b6d612be3c4a07"
-          }
-        },
-        {
-          "id": "me.shedaniel.clothconfig:cloth_config:9.0.94@jar",
-          "name": "Cloth Config v9 API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1153269,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/cloth-config-9.0.94-forge.jar",
-            "MD5": "9bffec18136a1b6ebbd5b9ec7b24d9d3"
-          }
-        },
-        {
-          "id": "de.maxhenkel:corpse:1.19.3-1.0.3@jar",
-          "name": "Corpse",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 223116,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/corpse-1.19.3-1.0.3.jar",
-            "MD5": "8a5489ddea141358a525d9460f4b667c"
-          }
-        },
-        {
-          "id": "top.theillusivec4:curios:1.19.3-5.1.4.1@jar",
-          "name": "Curios API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 270687,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/curios-forge-1.19.3-5.1.4.1.jar",
-            "MD5": "2a42607391ce7323364c7c91a81e8c0b"
-          }
-        },
-        {
-          "id": "atomicstryker.dynamiclights.server:dynamiclights:1.19.3.1@jar",
-          "name": "Dynamic Lights",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 44830,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/dynamiclights-1.19.3.1.jar",
-            "MD5": "ea3335e91cb0e210709864b8f1f0d587"
-          }
-        },
-        {
-          "id": "de.geheimagentnr1:easier_sleeping:2.1.2@jar",
-          "name": "Easier Sleeping",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 55271,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/EasierSleeping-1.19.3-2.1.2.jar",
-            "MD5": "d499860c521aa824828523b10aa3b989"
-          }
-        },
-        {
-          "id": "net.darkhax:enchdesc:14.0.7@jar",
-          "name": "EnchantmentDescriptions",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 63125,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/EnchantmentDescriptions-Forge-1.19.3-14.0.7.jar",
-            "MD5": "d4f7aabaf37a4d77eacd843de6135770"
-          }
-        },
-        {
-          "id": "fr.rakambda:fallingtree:3.11.2@jar",
-          "name": "FallingTree",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 413201,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/FallingTree-1.19.3-3.11.2.jar",
-            "MD5": "cb7293ebfd3a310c71f36389ea9d9351"
-          }
-        },
-        {
-          "id": "xyz.apex.forge.fantasyfurniture.core:fantasyfurniture:7.0.8@jar",
-          "name": "Fantasy's Furniture",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3184581,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/fantasyfurniture-1.19.3-7.0.8.jar",
-            "MD5": "54eca4a1dea465309d4c4d80fe538f72"
-          }
-        },
-        {
-          "id": "mezz.jei:jei:12.4.0.22@jar",
-          "name": "Just Enough Items",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1105288,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/jei-1.19.3-forge-12.4.0.22.jar",
-            "MD5": "888e5d9ee2f0e866b5d41f04e4c53965"
-          }
-        },
-        {
-          "id": "com.mlib:mlib:3.3.0@jar",
-          "name": "Majrusz Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 468931,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/majrusz-library-1.19.3-3.3.0.jar",
-            "MD5": "35ad099ab342a01e3496c9b355287788"
-          }
-        },
-        {
-          "id": "com.majruszsaccessories:majruszsaccessories:1.1.4@jar",
-          "name": "Majrusz's Accessories",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 144477,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/majruszs-accessories-1.19.3-1.1.4.jar",
-            "MD5": "c75b871e3e6f4c74eb76668e5cc91983"
-          }
-        },
-        {
-          "id": "com.majruszsdifficulty:majruszsdifficulty:1.7.3@jar",
-          "name": "Majrusz's Progressive Difficulty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 694492,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/majruszs-difficulty-1.19.3-1.7.3.jar",
-            "MD5": "4f72f6a2631c13b7c9058a74f100c0d6"
-          }
-        },
-        {
-          "id": "com.majruszsenchantments:majruszsenchantments:1.8.1@jar",
-          "name": "Majrusz's Enchantments",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 162390,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/majruszs-enchantments-1.19.3-1.8.1.jar",
-            "MD5": "ba306c69d12a7b2770fe554f6d098fd0"
-          }
-        },
-        {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.19.3-1.0.18@jar",
-          "name": "Sound Physics Remastered",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 101729,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/soundphysics-forge-1.19.3-1.0.18.jar",
-            "MD5": "adfde21505accb31fac88cb0c2995c7c"
-          }
-        },
-        {
-          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.6b@jar",
-          "name": "SuperMartijn642's Config Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 205936,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/supermartijn642configlib-1.1.6b-forge-mc1.19.jar",
-            "MD5": "559d896dad9316c3fc8ce1de245d9c4d"
-          }
-        },
-        {
-          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.7@jar",
-          "name": "SuperMartijn642's Core Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 472638,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/supermartijn642corelib-1.1.7-forge-mc1.19.3.jar",
-            "MD5": "561e535198c2e3c7a3bca1004a98243e"
-          }
-        },
-        {
-          "id": "terrablender.core:terrablender:2.1.0.132@jar",
-          "name": "TerraBlender",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 102168,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/TerraBlender-forge-1.19.3-2.1.0.132.jar",
-            "MD5": "03b12f9de212c787596a64d1e65429d3"
-          }
-        },
-        {
-          "id": "info.u_team.u_team_core:uteamcore:4.5.3.240@jar",
-          "name": "U Team Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 398041,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/u_team_core-1.19.3-4.5.3.240.jar",
-            "MD5": "bc6f5d60d5f9285a2d97ac9b243d1bf1"
-          }
-        },
-        {
-          "id": "info.u_team.useful_backpacks:usefulbackpacks:1.14.3.109@jar",
-          "name": "Useful Backpacks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 176320,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/useful_backpacks-1.19.3-1.14.3.109.jar",
-            "MD5": "ac2d1b53efc60ad6c8ed6fd9b9b45746"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.19.3-2.3.28@jar",
-          "name": "Simple Voice Chat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7847776,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/voicechat-forge-1.19.3-2.3.28.jar",
-            "MD5": "d5b0ce805afb4c8ac0f3aa9ec65b9e7e"
-          }
-        },
-        {
-          "id": "net.blay09.mods:waystones:12.2.0@jar",
-          "name": "Waystones",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 420028,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/waystones-forge-1.19.3-12.2.0.jar",
-            "MD5": "24d9fa9bd006fb3afde9b498ae770067"
-          }
-        },
-        {
-          "id": "xaero.minimap:xaerominimap:23.3.2@jar",
-          "name": "Xaero's Minimap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1302979,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/Xaeros_Minimap_23.3.2_Forge_1.19.3.jar",
-            "MD5": "6e7635d08e736a82f1a6910557c52d55"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:yungsapi:1.19.3-Forge-3.9.0@jar",
-          "name": "YUNG's API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 285885,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsApi-1.19.3-Forge-3.9.0.jar",
-            "MD5": "ce2acf108c9bfbbf8356fb17261edc0a"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.19.3-Forge-2.3.0@jar",
-          "name": "YUNG's Better Desert Temples",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 987318,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterDesertTemples-1.19.3-Forge-2.3.0.jar",
-            "MD5": "858b401d541a1d7d7b882a0381f20f03"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:betterdungeons:1.19.3-Forge-3.3.0@jar",
-          "name": "YUNG's Better Dungeons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 996240,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterDungeons-1.19.3-Forge-3.3.0.jar",
-            "MD5": "b81a222b849839965edfcee4b8c22f99"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.19.3-Forge-3.3.0@jar",
-          "name": "YUNG's Better Mineshafts",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 385612,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterMineshafts-1.19.3-Forge-3.3.0.jar",
-            "MD5": "40dec049d554207f51864014930c974d"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:betterfortresses:1.19.3-Forge-1.1.1@jar",
-          "name": "YUNG's Better Nether Fortresses",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 820571,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterNetherFortresses-1.19.3-Forge-1.1.1.jar",
-            "MD5": "7fa7d8445d529c3e4f0778f59f3b2816"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.19.3-Forge-2.2.0@jar",
-          "name": "YUNG's Better Ocean Monuments",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1403755,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterOceanMonuments-1.19.3-Forge-2.2.0.jar",
-            "MD5": "62122d7ed0dfc13f16b2a5df6b9c2798"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.19.3-Forge-3.3.0@jar",
-          "name": "YUNG's Better Strongholds",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 412362,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterStrongholds-1.19.3-Forge-3.3.0.jar",
-            "MD5": "c1230bbbdd87c240d1203347c3c5d4ca"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.19.3-Forge-2.2.0@jar",
-          "name": "YUNG's Better Witch Huts",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 241840,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsBetterWitchHuts-1.19.3-Forge-2.2.0.jar",
-            "MD5": "b2e8f2765669e9733e18823fcf97c762"
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:yungsextras:1.19.3-Forge-3.2.0@jar",
-          "name": "YUNG's Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 400808,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/forgemods/required/YungsExtras-1.19.3-Forge-3.2.0.jar",
-            "MD5": "a527af4bb46c13d9e9a0b3edb4e824bf"
-          }
-        },
-        {
-          "id": "reflectivity.properties",
-          "name": "reflectivity.properties",
-          "type": "File",
-          "artifact": {
-            "size": 1349,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "ba69914ae2dc28a19065ac9171c3e8a7",
-            "path": "config/sound_physics_remastered/reflectivity.properties"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 76,
-            "url": "https://jotechah.github.io/servers/Turbocraft-1.19.3/files/servers.dat",
-            "MD5": "3cec9c1ae88b7fc09840935486f566a9",
-            "path": "servers.dat"
-          }
-        }
       ]
     }
   ]
