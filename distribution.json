@@ -475,16 +475,6 @@
           }
         },
         {
-          "id": "com.supermartijn642:chunkloaders:1.2.3@jar",
-          "name": "Chunk Loaders",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 145376,
-            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/chunkloaders-1.2.3-forge-mc1.19.jar",
-            "MD5": "7d3e9fe86ef16db0fe35a1faf67f4fa9"
-          }
-        },
-        {
           "id": "com.github.alexthe666:citadel:2.1.3@jar",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -522,6 +512,16 @@
             "size": 278394,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/curios-forge-1.19.2-5.1.4.0.jar",
             "MD5": "485c5f3dc2d5d74c4b5f08184e606334"
+          }
+        },
+        {
+          "id": "dev.lambdaurora.lambdynlights:dynamiclightsreforged:1.19.2_v1.4.0@jar",
+          "name": "Rubidium Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90207,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/dynamiclightsreforged-1.19.2_v1.4.0.jar",
+            "MD5": "67f6b3118439adc4e56724c78001e981"
           }
         },
         {
@@ -602,6 +602,36 @@
             "size": 116824,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/ferritecore-5.0.3-forge.jar",
             "MD5": "c556facc604bd4fc0824c4524c73b9b9"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbchunks:1902.3.21-build.266@jar",
+          "name": "FTB Chunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 857213,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/ftb-chunks-forge-1902.3.21-build.266.jar",
+            "MD5": "4a2e96ccd367d7b92f001f3eb9f609fc"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:1902.3.18-build.208@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 596973,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/ftb-library-forge-1902.3.18-build.208.jar",
+            "MD5": "caad332f843c39c79871d6adf004c0cf"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:1902.2.13-build.100@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 216604,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/ftb-teams-forge-1902.2.13-build.100.jar",
+            "MD5": "8a80177a558eedc67bc69234a1235741"
           }
         },
         {
@@ -832,16 +862,6 @@
             "size": 397819,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/waystones-forge-1.19.2-11.3.1.jar",
             "MD5": "d11288066796af8360da63e80370e6b6"
-          }
-        },
-        {
-          "id": "xaero.minimap:xaerominimap:23.4.0@jar",
-          "name": "Xaero's Minimap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1307013,
-            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Xaeros_Minimap_23.4.0_Forge_1.19.1.jar",
-            "MD5": "dbdd974d764db0c9615120904572c403"
           }
         },
         {
