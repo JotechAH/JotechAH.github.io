@@ -665,6 +665,26 @@
           }
         },
         {
+          "id": "net.cursedwarrior.morevillagertrades:more_villager_trades:1.0.0@jar",
+          "name": "More Villager Trades",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11578,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/More+Villager+Trades+1.0.0+-+1.19.2.jar",
+            "MD5": "d08009f9e718f4733bb25c472a433d50"
+          }
+        },
+        {
+          "id": "com.samebutdifferent:morevillagers:4.0.3@jar",
+          "name": "More Villagers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 234333,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/morevillagers-forge-1.19-4.0.3.jar",
+            "MD5": "ec7545b5c0ff12ae1974c438c57f452a"
+          }
+        },
+        {
           "id": "net.coderbot.iris:oculus:1.2.8a@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -782,6 +802,16 @@
             "size": 174776,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/useful_backpacks-1.19.2-1.14.1.107.jar",
             "MD5": "b5003a173de0872de44ff8024e197b35"
+          }
+        },
+        {
+          "id": "com.lothrazar:villagertools:1.19-1.0.3@jar",
+          "name": "Villagertools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4885850,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/villagertools-1.19-1.0.3.jar",
+            "MD5": "c2d6bedfb274b04a0614b0b628335659"
           }
         },
         {
