@@ -849,9 +849,9 @@
           "name": "Villagertools",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4884016,
+            "size": 4884054,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/villagertools-1.19.2-1.0.5.jar",
-            "MD5": "f4e9c0007aabc413ec918f8d75370f58"
+            "MD5": "cf440757ff2d1bb5ffceec55976e5e3d"
           }
         },
         {
