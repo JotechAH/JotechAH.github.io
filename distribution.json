@@ -980,9 +980,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 76,
+            "size": 108,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/files/servers.dat",
-            "MD5": "3cec9c1ae88b7fc09840935486f566a9",
+            "MD5": "feb672c856a0a57a26236386af34ce70",
             "path": "servers.dat"
           }
         }
