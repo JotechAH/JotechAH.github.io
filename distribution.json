@@ -615,13 +615,13 @@
           }
         },
         {
-          "id": "dev.ftb.mods:ftbchunks:1902.3.21-build.266@jar",
+          "id": "dev.ftb.mods:ftbchunks:1902.3.21-build.9999@jar",
           "name": "FTB Chunks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 857213,
+            "size": 879553,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/ftb-chunks-forge-1902.3.21-build.266.jar",
-            "MD5": "4a2e96ccd367d7b92f001f3eb9f609fc"
+            "MD5": "c699c614c0e2328c5924156893617200"
           }
         },
         {
