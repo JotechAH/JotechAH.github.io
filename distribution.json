@@ -619,9 +619,9 @@
           "name": "FTB Chunks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 879456,
+            "size": 913936,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/ftb-chunks-forge-1902.3.21-build.266.jar",
-            "MD5": "0cfb111a71216b7958766f3218525287"
+            "MD5": "73c061a2c7035b40be70e8e8322a1dc8"
           }
         },
         {
