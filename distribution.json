@@ -465,6 +465,16 @@
           }
         },
         {
+          "id": "dan200.computercraft:computercraft:1.101.2@jar",
+          "name": "CC: Tweaked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2264470,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/cc-tweaked-1.19.2-1.101.2.jar",
+            "MD5": "0b0f6e644fdaf795d971bbc8f4a1fef1"
+          }
+        },
+        {
           "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
