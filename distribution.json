@@ -405,6 +405,16 @@
           ]
         },
         {
+          "id": "de.srendi:advancedperipherals:0.7.27r@jar",
+          "name": "Advanced Peripherals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 863842,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/AdvancedPeripherals-0.7.27r.jar",
+            "MD5": "ba8d21183e879b567bce45dfe400aa85"
+          }
+        },
+        {
           "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
           "name": "AI-Improvements",
           "type": "ForgeMod",
