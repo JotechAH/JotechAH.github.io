@@ -515,6 +515,26 @@
           }
         },
         {
+          "id": "com.blamejared:crafttweaker:10.1.43@jar",
+          "name": "CraftTweaker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3027726,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/CraftTweaker-forge-1.19.2-10.1.43.jar",
+            "MD5": "12cb37d1c08706442b15188ad4dbeab9"
+          }
+        },
+        {
+          "id": "com.simibubi:create:0.5.0.i@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13808628,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/create-1.19.2-0.5.0.i.jar",
+            "MD5": "b4c336a51c1ccb578917efba4322a44b"
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:1.19.2-5.1.4.0@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -612,6 +632,16 @@
             "size": 116824,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/ferritecore-5.0.3-forge.jar",
             "MD5": "c556facc604bd4fc0824c4524c73b9b9"
+          }
+        },
+        {
+          "id": "com.jozufozu:flywheel:0.6.8.a@jar",
+          "name": "Flywheel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 551209,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/flywheel-forge-1.19.2-0.6.8.a.jar",
+            "MD5": "0052ed4ee7075110eff6c005a2fe44d8"
           }
         },
         {
