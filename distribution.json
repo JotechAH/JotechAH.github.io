@@ -565,6 +565,16 @@
           }
         },
         {
+          "id": "dev.lambdaurora.lambdynlights:dynamiclightsreforged:1.19.2_v1.4.0@jar",
+          "name": "Rubidium Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90207,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/dynamiclightsreforged-1.19.2_v1.4.0.jar",
+            "MD5": "67f6b3118439adc4e56724c78001e981"
+          }
+        },
+        {
           "id": "de.geheimagentnr1:easier_sleeping:2.1.2@jar",
           "name": "Easier Sleeping",
           "type": "ForgeMod",
@@ -765,6 +775,26 @@
           }
         },
         {
+          "id": "net.coderbot.iris:oculus:1.2.8a@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1886544,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/oculus-mc1.19.2-1.2.8a.jar",
+            "MD5": "4bff325ca61cbfa99185a93c13cba49c"
+          }
+        },
+        {
+          "id": "com.matyrobbrt:okzoomer:2.1.1@jar",
+          "name": "OkZoomer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120083,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/okzoomer-forge-1.19-2.1.1.jar",
+            "MD5": "8d89bf58bf89ccaab83c3cfbb0a9670c"
+          }
+        },
+        {
           "id": "shadows.placebo:placebo:7.1.7@jar",
           "name": "Placebo",
           "type": "ForgeMod",
@@ -772,6 +802,26 @@
             "size": 231342,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/Placebo-1.19.2-7.1.7.jar",
             "MD5": "ba2d8d78d1fdb5e40bd7e28ce68903c0"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.2a@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1383807,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/rubidium-0.6.2a.jar",
+            "MD5": "52245d079adf96ddacc61cc90e2f8c7c"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra.client:sodiumextra:0.4.17+mc1.19.2-build.71@jar",
+          "name": "Rubidium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 298970,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/rubidium-extra-0.4.17+mc1.19.2-build.71.jar",
+            "MD5": "9eeff84fa19e71eee4cb3c8e3ac18b76"
           }
         },
         {
@@ -812,6 +862,16 @@
             "size": 96499,
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/TerraBlender-forge-1.19.2-2.0.1.136.jar",
             "MD5": "ed2fe6eb99f5d399db71e71f209de2ac"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods:reeses_sodium_options:1.0.4-mc1.19.2@jar",
+          "name": "TexTrue's Rubidium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 194768,
+            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/forgemods/required/TextruesRubidiumOptions-1.0.4-mc1.19.2.jar",
+            "MD5": "cfa35950ee6e5f73b32a68878ff3cccd"
           }
         },
         {
@@ -963,17 +1023,6 @@
             "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/files/config/sound_physics_remastered/reflectivity.properties",
             "MD5": "ba69914ae2dc28a19065ac9171c3e8a7",
             "path": "config/sound_physics_remastered/reflectivity.properties"
-          }
-        },
-        {
-          "id": "OptiFine_1.19.2_HD_U_I1.jar",
-          "name": "OptiFine_1.19.2_HD_U_I1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 6932845,
-            "url": "https://jotechah.github.io/servers/turbocraft-1.19.2/files/mods/OptiFine_1.19.2_HD_U_I1.jar",
-            "MD5": "23a9a9fa0a24bd214b868d06d2effe95",
-            "path": "mods/OptiFine_1.19.2_HD_U_I1.jar"
           }
         },
         {
