@@ -12,11 +12,9 @@
       "mainServer": true,
       "autoconnect": true,
       "javaOptions": {
-          "supported": "8",
-          "suggestedMajor": 8,
           "ram": {
-            "recommended": 4096,
-            "minimum": 2048
+            "recommended": 12288,
+            "minimum": 8192
           }
       },
       "modules": [
