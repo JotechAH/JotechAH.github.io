@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
   "java": {
-      "oracle": "https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.exe"
+      "supported": ">=8",
+      "suggestedMajor": 8
   },
   "servers": [
     {
