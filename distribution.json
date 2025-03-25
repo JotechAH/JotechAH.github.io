@@ -1,9 +1,5 @@
 {
   "version": "1.0.0",
-  "java": {
-      "supported": ">=8",
-      "suggestedMajor": 8
-  },
   "servers": [
     {
       "id": "Turbocraft-1.19.2",
@@ -15,6 +11,14 @@
       "minecraftVersion": "1.19.2",
       "mainServer": true,
       "autoconnect": true,
+      "JavaOptions": {
+          "supported": ">=8",
+          "suggestedMajor": 8,
+          "ram": {
+            "recommended": 4096,
+            "minimum": 2048
+          }
+      },
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.2.8",
