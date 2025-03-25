@@ -11,7 +11,7 @@
       "minecraftVersion": "1.19.2",
       "mainServer": true,
       "autoconnect": true,
-      "JavaOptions": {
+      "javaOptions": {
           "supported": ">=8",
           "suggestedMajor": 8,
           "ram": {
