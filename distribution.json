@@ -7,7 +7,7 @@
       "description": "Turbocraft",
       "icon": "https://jotechah.github.io/icon.png",
       "version": "1.0.0",
-      "address": "abordeaux-553-1-22-172.w92-162.abo.wanadoo.fr:27015",
+      "address": "90.63.106.157:27015",
       "minecraftVersion": "1.19.2",
       "mainServer": true,
       "autoconnect": true,
