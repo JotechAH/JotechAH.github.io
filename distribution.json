@@ -2139,9 +2139,9 @@
           "name": "Cataclysm",
           "type": "ForgeMod",
           "artifact": {
-            "size": 127993805,
+            "size": 85547703,
             "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/L_Enders_Cataclysm-3.16.jar",
-            "MD5": "de747fb259b761f7b872654516fa27b3"
+            "MD5": "9ae05a24c983db60585525a513648fb9"
           }
         },
         {
