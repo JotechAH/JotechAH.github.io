@@ -487,6 +487,16 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:amendments:1.20-2.2.1@jar",
+          "name": "Amendments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1298659,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/amendments-1.20-2.2.1.jar",
+            "MD5": "5512d7f34d2ee140d435ae83bbb0303c"
+          }
+        },
+        {
           "id": "dev.shadowsoffire:apotheosis:7.4.8@jar",
           "name": "Apotheosis",
           "type": "ForgeMod",
