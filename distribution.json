@@ -2894,16 +2894,6 @@
           }
         },
         {
-          "id": "net.lionarius:skinrestorer:2.4.3+1.20-forge@jar",
-          "name": "SkinRestorer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 188270,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/skinrestorer-2.4.3+1.20-forge.jar",
-            "MD5": "77455bad956d8fe33b83933303c14d6d"
-          }
-        },
-        {
           "id": "net.mcreator.overworldnetheriteore:overworld_netherite_ore:2.6@jar",
           "name": "Sky's Overworld Netherite",
           "type": "ForgeMod",
@@ -44076,6 +44066,17 @@
             "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/startup_scripts/Potion%20Removals.js",
             "MD5": "05769904d29a017cad8115d4165d2cd9",
             "path": "kubejs/startup_scripts/Potion Removals.js"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 76,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/servers.dat",
+            "MD5": "d8d4f3a604db7bccd0bf5770949d997e",
+            "path": "servers.dat"
           }
         },
         {
