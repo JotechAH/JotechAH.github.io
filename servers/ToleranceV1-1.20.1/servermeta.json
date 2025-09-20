@@ -12,7 +12,13 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": false
+    "autoconnect": false,
+    "javaOptions": {
+      "ram": {
+        "recommended": 8192,
+        "minimum": 8192
+      }
+    }
   },
   "forge": {
     "version": "47.4.6"

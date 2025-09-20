@@ -22,6 +22,12 @@
       },
       "mainServer": true,
       "autoconnect": false,
+      "javaOptions": {
+        "ram": {
+          "recommended": 8192,
+          "minimum": 8192
+        }
+      },
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.6",
