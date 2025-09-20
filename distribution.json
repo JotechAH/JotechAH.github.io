@@ -1846,12 +1846,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 544250,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/optionaloff/fusion-1.2.11a-forge-mc1.20.1.jar",
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/fusion-1.2.11a-forge-mc1.20.1.jar",
             "MD5": "709b729df7478057bc30c15a6091b274"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
