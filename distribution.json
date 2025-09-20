@@ -3268,19 +3268,6 @@
           }
         },
         {
-          "id": "me.khajiitos:tradeuses:1.2.1@jar",
-          "name": "Trade Uses",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 66866,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/optionalon/tradeuses-1.2.1-1.20.x-FORGE.jar",
-            "MD5": "8eba79adca17a1d076962fbf6c5b0a71"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.blay09.mods:trashslot:15.1.2@jar",
           "name": "TrashSlot",
           "type": "ForgeMod",
