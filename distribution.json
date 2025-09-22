@@ -1721,6 +1721,16 @@
           }
         },
         {
+          "id": "io.github.bumblesoftware.fastload.init:fastload:3.4.0@jar",
+          "name": "Fastload-Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66989,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "MD5": "3266e638032dc9b957bf1e7372671c05"
+          }
+        },
+        {
           "id": "com.buuz135:findme:3.2.1@jar",
           "name": "FindMe",
           "type": "ForgeMod",
