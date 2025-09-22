@@ -3104,16 +3104,6 @@
           }
         },
         {
-          "id": "net.blay09.mods:trashslot:15.1.2@jar",
-          "name": "TrashSlot",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 117791,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.2.jar",
-            "MD5": "e1df6b412a4c22894967ba42beb347be"
-          }
-        },
-        {
           "id": "com.unrealdinnerbone:trenzalore:3.3.10@jar",
           "name": "Trenzalore",
           "type": "ForgeMod",
