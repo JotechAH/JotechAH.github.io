@@ -459,6 +459,16 @@
           }
         },
         {
+          "id": "com.github.alexmodguy:alexscaves:2.0.2@jar",
+          "name": "Alex's Caves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74871657,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/alexscaves-2.0.2.jar",
+            "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5"
+          }
+        },
+        {
           "id": "dev.uncandango:alltheleaks:1.0.4+1.20.1-forge@jar",
           "name": "All The Leaks",
           "type": "ForgeMod",
@@ -797,6 +807,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.6.2@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3185379,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/citadel-2.6.2-1.20.1.jar",
+            "MD5": "f027b4f6862b99a1e0516353fb3ef0fc"
           }
         },
         {
@@ -43731,9 +43751,9 @@
           "name": "Tolepack.zip",
           "type": "File",
           "artifact": {
-            "size": 3455,
+            "size": 3421,
             "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/resourcepacks/Tolepack.zip",
-            "MD5": "26264a9829a447b4d7eebe7a8078fc26",
+            "MD5": "107a195898f629edc51de97ae202f991",
             "path": "resourcepacks/Tolepack.zip"
           }
         },
