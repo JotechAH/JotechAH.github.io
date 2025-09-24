@@ -1389,6 +1389,16 @@
           }
         },
         {
+          "id": "net.steampn:createhorsepower:1.0.1@jar",
+          "name": "Create Horse Power",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 258705,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/createhorsepower-1.0.1.jar",
+            "MD5": "1808ba5a8e918ade9fa41a9bcd490ce7"
+          }
+        },
+        {
           "id": "com.blakebr0:cucumber:7.0.15@jar",
           "name": "Cucumber Library",
           "type": "ForgeMod",
@@ -1396,16 +1406,6 @@
             "size": 269566,
             "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/Cucumber-1.20.1-7.0.15.jar",
             "MD5": "84949e197a71b5f20a99532bd082cea6"
-          }
-        },
-        {
-          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
-          "name": "Cupboard utilities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25983,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
-            "MD5": "3620912474f47bf58d1fe5bfe133763a"
           }
         },
         {
@@ -1708,6 +1708,16 @@
           }
         },
         {
+          "id": "fr.rakambda:fallingtree:4.3.4@jar",
+          "name": "FallingTree",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 420179,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/FallingTree-1.20.1-4.3.4.jar",
+            "MD5": "e9282de446320895a7835ce9efc6d3b7"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.9@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -1904,6 +1914,16 @@
             "size": 684865,
             "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/integrated_api-1.5.3+1.20.1-forge.jar",
             "MD5": "a3c264d1f63270d86c8ccfc85fb8d294"
+          }
+        },
+        {
+          "id": "com.craisinlord:integrated_cataclysm:1.0.4+1.20.1@jar",
+          "name": "Integrated Cataclysm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5067013,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/integrated_cataclysm_forge-1.0.4+1.20.1.jar",
+            "MD5": "0a7a43c9a31244cb26097c314382d319"
           }
         },
         {
@@ -2293,76 +2313,6 @@
             "size": 670934,
             "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/lodestone-1.20.1-1.6.4.1.jar",
             "MD5": "2816fa972ca3a21e6e38783f979955be"
-          }
-        },
-        {
-          "id": "generated.forgemod:lootintegration_townsandtowers:1@jar",
-          "name": "Lootintegration_townsandtowers mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4800,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/lootintegration_townsandtowers-1.2.jar",
-            "MD5": "5bc206cfbed61e2a1bdcd886353c66fb"
-          }
-        },
-        {
-          "id": "generated.forgemod:lootintegration_wda:1@jar",
-          "name": "Lootintegration_wda mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7690,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/lootintegration_wda-1.6.jar",
-            "MD5": "6348bb9b9328598708cae3ad4200a20f"
-          }
-        },
-        {
-          "id": "generated.forgemod:lootintegrations_integrated:1@jar",
-          "name": "Lootintegrations_integrated mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7431,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/lootintegrations_integrated-1.4.jar",
-            "MD5": "e27e3971942098d62f647203d3bfe007"
-          }
-        },
-        {
-          "id": "generated.forgemod:lootintegrations_bygonepillage:1@jar",
-          "name": "Lootintegrations_bygonepillage mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5036,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/lootintegrations_lootintegrations_bygonepillage-1.2.jar",
-            "MD5": "49192484c1ccd6b946e826e2d1658c70"
-          }
-        },
-        {
-          "id": "generated.forgemod:lootintegrations_structory:1@jar",
-          "name": "Lootintegrations_structory mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6116,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/lootintegrations_structory-1.3.jar",
-            "MD5": "320f3f920e49ef8c315494650378a365"
-          }
-        },
-        {
-          "id": "generated.forgemod:lootintegrations_vanilla:1@jar",
-          "name": "Lootintegrations_vanilla mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6283,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/lootintegrations_vanilla-1.4.jar",
-            "MD5": "27c7660a8a1a5ffebb0c5b9d89aabb1f"
-          }
-        },
-        {
-          "id": "com.lootintegrations:lootintegrations:1.20.1-4.7@jar",
-          "name": "Lootintegrations mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 42220,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/lootintegrations-1.20.1-4.7.jar",
-            "MD5": "3dd1027fe2ca00e1bf3b432e1870aabc"
           }
         },
         {
