@@ -43637,6 +43637,50 @@
           }
         },
         {
+          "id": "keybindings.txt",
+          "name": "keybindings.txt",
+          "type": "File",
+          "artifact": {
+            "size": 10717,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/config/defaultoptions/keybindings.txt",
+            "MD5": "3c8ed432d5e6c96cbf7ecf9b46fd6390",
+            "path": "config/defaultoptions/keybindings.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2981,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/config/defaultoptions/options.txt",
+            "MD5": "603c572995bab90c2dd8042fe97d9a10",
+            "path": "config/defaultoptions/options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 76,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/config/defaultoptions/servers.dat",
+            "MD5": "d8d4f3a604db7bccd0bf5770949d997e",
+            "path": "config/defaultoptions/servers.dat"
+          }
+        },
+        {
+          "id": "common.json5",
+          "name": "common.json5",
+          "type": "File",
+          "artifact": {
+            "size": 520,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/config/underground_village/common.json5",
+            "MD5": "a6bcd85a10a51c7e7b380df3d7e7be4a",
+            "path": "config/underground_village/common.json5"
+          }
+        },
+        {
           "id": "MoreStructures-SpacingTweaks-1.20.1-2.1.56.zip",
           "name": "MoreStructures-SpacingTweaks-1.20.1-2.1.56.zip",
           "type": "File",
@@ -43747,14 +43791,25 @@
           }
         },
         {
-          "id": "Tolepack.zip",
-          "name": "Tolepack.zip",
+          "id": "keybindings.txt",
+          "name": "keybindings.txt",
           "type": "File",
           "artifact": {
-            "size": 3421,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/resourcepacks/Tolepack.zip",
-            "MD5": "107a195898f629edc51de97ae202f991",
-            "path": "resourcepacks/Tolepack.zip"
+            "size": 10717,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/defaultoptions/keybindings.txt",
+            "MD5": "3c8ed432d5e6c96cbf7ecf9b46fd6390",
+            "path": "defaultoptions/keybindings.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2981,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/defaultoptions/options.txt",
+            "MD5": "603c572995bab90c2dd8042fe97d9a10",
+            "path": "defaultoptions/options.txt"
           }
         },
         {
@@ -43763,9 +43818,339 @@
           "type": "File",
           "artifact": {
             "size": 76,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/servers.dat",
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/defaultoptions/servers.dat",
             "MD5": "d8d4f3a604db7bccd0bf5770949d997e",
-            "path": "servers.dat"
+            "path": "defaultoptions/servers.dat"
+          }
+        },
+        {
+          "id": "hc_build_tool.png",
+          "name": "hc_build_tool.png",
+          "type": "File",
+          "artifact": {
+            "size": 141461,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_build_tool.png",
+            "MD5": "c7789fb3067f30dce94f8fe5dbc3035a",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_build_tool.png"
+          }
+        },
+        {
+          "id": "hc_defense.png",
+          "name": "hc_defense.png",
+          "type": "File",
+          "artifact": {
+            "size": 2115,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_defense.png",
+            "MD5": "7e91aa06b68554b793e9e34004666c32",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_defense.png"
+          }
+        },
+        {
+          "id": "hc_feed_the_machine.png",
+          "name": "hc_feed_the_machine.png",
+          "type": "File",
+          "artifact": {
+            "size": 3289,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_feed_the_machine.png",
+            "MD5": "652d6af6ef65e470af3c2cfef685afda",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_feed_the_machine.png"
+          }
+        },
+        {
+          "id": "hc_getting_started.png",
+          "name": "hc_getting_started.png",
+          "type": "File",
+          "artifact": {
+            "size": 3093,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_getting_started.png",
+            "MD5": "314783b546231bdd7ffc0e165cdc43c7",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_getting_started.png"
+          }
+        },
+        {
+          "id": "hc_logistics.png",
+          "name": "hc_logistics.png",
+          "type": "File",
+          "artifact": {
+            "size": 2258,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_logistics.png",
+            "MD5": "d21666a69651041dbfa0b7f87bb15553",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_logistics.png"
+          }
+        },
+        {
+          "id": "hc_production.png",
+          "name": "hc_production.png",
+          "type": "File",
+          "artifact": {
+            "size": 2667,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_production.png",
+            "MD5": "5c974c1d5216032d698eeb8aa78581ca",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_production.png"
+          }
+        },
+        {
+          "id": "hc_the_builder.png",
+          "name": "hc_the_builder.png",
+          "type": "File",
+          "artifact": {
+            "size": 2677,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_the_builder.png",
+            "MD5": "7d20fd091ae1b1ee464bdad2b1d9d8b9",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_the_builder.png"
+          }
+        },
+        {
+          "id": "hc_university_research.png",
+          "name": "hc_university_research.png",
+          "type": "File",
+          "artifact": {
+            "size": 3945,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_university_research.png",
+            "MD5": "8e6ca52b8a406482b3bdef8667237984",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_university_research.png"
+          }
+        },
+        {
+          "id": "hc_utility.png",
+          "name": "hc_utility.png",
+          "type": "File",
+          "artifact": {
+            "size": 1887,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/hc_utility.png",
+            "MD5": "da6ed21a0d62e956fccfde25852e96bc",
+            "path": "kubejs/assets/minecolonies/textures/quests/hc_utility.png"
+          }
+        },
+        {
+          "id": "minecolonies_logo_medium.png",
+          "name": "minecolonies_logo_medium.png",
+          "type": "File",
+          "artifact": {
+            "size": 22326,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/assets/minecolonies/textures/quests/minecolonies_logo_medium.png",
+            "MD5": "dff3b0d477ee581d213c6ad3a60363bb",
+            "path": "kubejs/assets/minecolonies/textures/quests/minecolonies_logo_medium.png"
+          }
+        },
+        {
+          "id": "JEI_Item_Removal.js",
+          "name": "JEI_Item_Removal.js",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/client_scripts/JEI_Item_Removal.js",
+            "MD5": "156ca214fac8aea371962468af3a52a5",
+            "path": "kubejs/client_scripts/JEI_Item_Removal.js"
+          }
+        },
+        {
+          "id": "common.properties",
+          "name": "common.properties",
+          "type": "File",
+          "artifact": {
+            "size": 343,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/config/common.properties",
+            "MD5": "8dc72147e6ea7b121a0c6bda03aa3d67",
+            "path": "kubejs/config/common.properties"
+          }
+        },
+        {
+          "id": "creative_from_zinc.json",
+          "name": "creative_from_zinc.json",
+          "type": "File",
+          "artifact": {
+            "size": 383,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/data/createcasing/recipes/crafting/chain_drive/creative_from_zinc.json",
+            "MD5": "b03a7e47469e94e5dc761f5fab8a696c",
+            "path": "kubejs/data/createcasing/recipes/crafting/chain_drive/creative_from_zinc.json"
+          }
+        },
+        {
+          "id": "08b408d5-4946-322c-95c4-1cdc5f9bfd0d.json",
+          "name": "08b408d5-4946-322c-95c4-1cdc5f9bfd0d.json",
+          "type": "File",
+          "artifact": {
+            "size": 2348,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/data/player_inventories/08b408d5-4946-322c-95c4-1cdc5f9bfd0d.json",
+            "MD5": "9806da6c5965b09fd2f8f31b0b749edb",
+            "path": "kubejs/data/player_inventories/08b408d5-4946-322c-95c4-1cdc5f9bfd0d.json"
+          }
+        },
+        {
+          "id": "38ff0884-6510-4594-9b4c-4d75a5757d0f.json",
+          "name": "38ff0884-6510-4594-9b4c-4d75a5757d0f.json",
+          "type": "File",
+          "artifact": {
+            "size": 479,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/data/player_inventories/38ff0884-6510-4594-9b4c-4d75a5757d0f.json",
+            "MD5": "facaf9d54c7479f51d915ad057130f2b",
+            "path": "kubejs/data/player_inventories/38ff0884-6510-4594-9b4c-4d75a5757d0f.json"
+          }
+        },
+        {
+          "id": "wraith_spawnable.json",
+          "name": "wraith_spawnable.json",
+          "type": "File",
+          "artifact": {
+            "size": 131,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/data/quark/tags/blocks/wraith_spawnable.json",
+            "MD5": "a3e620781232086a2f27f5007eb5a475",
+            "path": "kubejs/data/quark/tags/blocks/wraith_spawnable.json"
+          }
+        },
+        {
+          "id": "README.txt",
+          "name": "README.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1203,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/README.txt",
+            "MD5": "9b7dd698e2035090afd6f76f2d493cc6",
+            "path": "kubejs/README.txt"
+          }
+        },
+        {
+          "id": "Loot Removal.js",
+          "name": "Loot Removal.js",
+          "type": "File",
+          "artifact": {
+            "size": 1484,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/Apotheosis/Loot%20Removal.js",
+            "MD5": "bc3adf584ca768f83b7b82d72a239938",
+            "path": "kubejs/server_scripts/Apotheosis/Loot Removal.js"
+          }
+        },
+        {
+          "id": "Recipe Removals.js",
+          "name": "Recipe Removals.js",
+          "type": "File",
+          "artifact": {
+            "size": 271,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/Apotheosis/Recipe%20Removals.js",
+            "MD5": "6e9ba8f516ff55e768f0ee8b10ac2576",
+            "path": "kubejs/server_scripts/Apotheosis/Recipe Removals.js"
+          }
+        },
+        {
+          "id": "Mechanical Crafter Recipes.js",
+          "name": "Mechanical Crafter Recipes.js",
+          "type": "File",
+          "artifact": {
+            "size": 402,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/Create/Mechanical%20Crafter%20Recipes.js",
+            "MD5": "ecb611f6657ca408569c612747b64759",
+            "path": "kubejs/server_scripts/Create/Mechanical Crafter Recipes.js"
+          }
+        },
+        {
+          "id": "Blockblocker.js",
+          "name": "Blockblocker.js",
+          "type": "File",
+          "artifact": {
+            "size": 1451,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/Creativeworld/Blockblocker.js",
+            "MD5": "9b964371bda5f1fdc9f19b5005f69a73",
+            "path": "kubejs/server_scripts/Creativeworld/Blockblocker.js"
+          }
+        },
+        {
+          "id": "commands.js",
+          "name": "commands.js",
+          "type": "File",
+          "artifact": {
+            "size": 4398,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/Creativeworld/commands.js",
+            "MD5": "2cde4a48ce28940064e42f35f6f832d8",
+            "path": "kubejs/server_scripts/Creativeworld/commands.js"
+          }
+        },
+        {
+          "id": "death_handler.js",
+          "name": "death_handler.js",
+          "type": "File",
+          "artifact": {
+            "size": 1183,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/Creativeworld/death_handler.js",
+            "MD5": "0d2e37c949fa8651cb3ea36252c20d99",
+            "path": "kubejs/server_scripts/Creativeworld/death_handler.js"
+          }
+        },
+        {
+          "id": "inventory.js",
+          "name": "inventory.js",
+          "type": "File",
+          "artifact": {
+            "size": 8386,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/Creativeworld/inventory.js",
+            "MD5": "d367fa21e46f6a2e7eb67f6df4f3ded6",
+            "path": "kubejs/server_scripts/Creativeworld/inventory.js"
+          }
+        },
+        {
+          "id": "portal_blocker.js",
+          "name": "portal_blocker.js",
+          "type": "File",
+          "artifact": {
+            "size": 1287,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/Creativeworld/portal_blocker.js",
+            "MD5": "785bb1439b6f7d4e71d42ec0d30d8f8f",
+            "path": "kubejs/server_scripts/Creativeworld/portal_blocker.js"
+          }
+        },
+        {
+          "id": "Item Tag Additions.js",
+          "name": "Item Tag Additions.js",
+          "type": "File",
+          "artifact": {
+            "size": 777,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/General/Item%20Tag%20Additions.js",
+            "MD5": "248a2a339acded2d00488257e10b55db",
+            "path": "kubejs/server_scripts/General/Item Tag Additions.js"
+          }
+        },
+        {
+          "id": "Recipe Additions.js",
+          "name": "Recipe Additions.js",
+          "type": "File",
+          "artifact": {
+            "size": 2237,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/server_scripts/General/Recipe%20Additions.js",
+            "MD5": "5f867f1a5b07a0b117b7f4c61b371033",
+            "path": "kubejs/server_scripts/General/Recipe Additions.js"
+          }
+        },
+        {
+          "id": "Currency.js",
+          "name": "Currency.js",
+          "type": "File",
+          "artifact": {
+            "size": 234,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/startup_scripts/Currency.js",
+            "MD5": "95178d105a70e952fdfed5d35734c4d5",
+            "path": "kubejs/startup_scripts/Currency.js"
+          }
+        },
+        {
+          "id": "Potion Removals.js",
+          "name": "Potion Removals.js",
+          "type": "File",
+          "artifact": {
+            "size": 235,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/kubejs/startup_scripts/Potion%20Removals.js",
+            "MD5": "05769904d29a017cad8115d4165d2cd9",
+            "path": "kubejs/startup_scripts/Potion Removals.js"
+          }
+        },
+        {
+          "id": "Tolepack.zip",
+          "name": "Tolepack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3421,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/files/resourcepacks/Tolepack.zip",
+            "MD5": "107a195898f629edc51de97ae202f991",
+            "path": "resourcepacks/Tolepack.zip"
           }
         },
         {

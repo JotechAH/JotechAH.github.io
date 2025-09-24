@@ -1,0 +1,84 @@
+{
+	"inventory": {
+		"slot_0": {
+			"id": "minecraft:diamond_ore",
+			"count": 64,
+			"nbtString": "null"
+		},
+		"slot_1": {
+			"id": "minecraft:netherite_sword",
+			"count": 1,
+			"nbtString": "{Damage:0}"
+		},
+		"slot_2": {
+			"id": "customnpcs:npcwand",
+			"count": 1,
+			"nbtString": "null"
+		},
+		"slot_9": {
+			"id": "minecraft:diamond_block",
+			"count": 64,
+			"nbtString": "null"
+		},
+		"slot_10": {
+			"id": "minecraft:leather_helmet",
+			"count": 1,
+			"nbtString": "{Damage:0}"
+		},
+		"slot_11": {
+			"id": "minecraft:iron_leggings",
+			"count": 1,
+			"nbtString": "{Damage:0}"
+		},
+		"slot_12": {
+			"id": "expanded_combat:shield_1",
+			"count": 1,
+			"nbtString": "{DL_Material:\"Oak Plank\",DR_Material:\"Oak Plank\",Damage:0,Last_Repair_Number:0,M_Material:\"Oak Plank\",UL_Material:\"Oak Plank\",UR_Material:\"Oak Plank\"}"
+		},
+		"slot_22": {
+			"id": "sophisticatedbackpacks:netherite_backpack",
+			"count": 1,
+			"nbtString": "{contentsUuid:[I;1360426749,1132088844,-1448290059,762210945],inventorySlots:120,renderInfo:{upgradeItems:[{Count:1b,id:\"sophisticatedbackpacks:advanced_pickup_upgrade\"},{Count:1b,id:\"sophisticatedbackpacks:advanced_refill_upgrade\",tag:{}},{Count:1b,id:\"minecraft:air\",tag:{}},{Count:1b,id:\"minecraft:air\",tag:{}},{Count:1b,id:\"minecraft:air\",tag:{}},{Count:1b,id:\"minecraft:air\",tag:{}},{Count:1b,id:\"minecraft:air\",tag:{}}]},upgradeSlots:7}"
+		},
+		"slot_35": {
+			"id": "minecraft:diamond_block",
+			"count": 64,
+			"nbtString": "null"
+		},
+		"armor_legs": {
+			"id": "minecraft:iron_leggings",
+			"count": 1,
+			"nbtString": "{Damage:0}"
+		},
+		"armor_chest": {
+			"id": "minecraft:leather_chestplate",
+			"count": 1,
+			"nbtString": "{Damage:0}"
+		},
+		"armor_head": {
+			"id": "minecraft:iron_helmet",
+			"count": 1,
+			"nbtString": "{Damage:0}"
+		},
+		"offhand": {
+			"id": "expanded_combat:shield_1",
+			"count": 1,
+			"nbtString": "{DL_Material:\"Rabbit Leather\",DR_Material:\"Rabbit Leather\",Damage:0,Last_Repair_Number:0,M_Material:\"Iron\",UL_Material:\"Rabbit Leather\",UR_Material:\"Rabbit Leather\"}"
+		}
+	},
+	"location": {
+		"dimension": "minecraft:overworld",
+		"x": -658.621849319,
+		"y": 71,
+		"z": 382.3802788295574,
+		"yaw": -63.598907,
+		"pitch": 34.80009
+	},
+	"experience": {
+		"level": 10,
+		"points": 10
+	},
+	"health": 18.333332,
+	"food": 17,
+	"saturation": 0
+}
