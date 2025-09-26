@@ -2,7 +2,7 @@
   "$schema": "file:///C:/Users/Jotech/Downloads/split/Nebula/tolelauncher/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Toleserveur",
+    "name": "Tolerance",
     "description": "Premier modpack fait pour la Tolérance",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "90.63.106.157:27015",
