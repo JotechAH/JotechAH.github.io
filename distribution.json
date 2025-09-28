@@ -1825,9 +1825,9 @@
           "name": "FTB Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 791875,
+            "size": 784777,
             "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/ftb-library-forge-2001.2.10.jar",
-            "MD5": "ae5292127a5a0d85d793bbce8f1e24dd"
+            "MD5": "050ccd4c2175fa1f320583d4d9d6b379"
           }
         },
         {
