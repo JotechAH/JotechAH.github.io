@@ -1821,16 +1821,6 @@
           }
         },
         {
-          "id": "dev.ftb.mods:ftbessentials:2001.2.3@jar",
-          "name": "FTB Essentials",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 156203,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.3.jar",
-            "MD5": "5d3acae1dc695190604bd4a2f5423d06"
-          }
-        },
-        {
           "id": "dev.ftb.mods:ftblibrary:2001.2.10@jar",
           "name": "FTB Library",
           "type": "ForgeMod",
