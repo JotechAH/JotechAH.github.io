@@ -727,6 +727,16 @@
           }
         },
         {
+          "id": "io.ejekta:bountiful:6.0.4+1.20.1@jar",
+          "name": "Bountiful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 502662,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/Bountiful-6.0.4+1.20.1-forge.jar",
+            "MD5": "14437740bee567400d0bafbf028434b6"
+          }
+        },
+        {
           "id": "com.izofar:bygonenether:1.3.2@jar",
           "name": "Bygone Nether",
           "type": "ForgeMod",
@@ -1239,16 +1249,6 @@
           }
         },
         {
-          "id": "com.kryeit:missions:0.4.8@jar",
-          "name": "Missions",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 566901,
-            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/create_missions-forge-0.4.8.jar",
-            "MD5": "5290149fea03747af7b0db81122c5164"
-          }
-        },
-        {
           "id": "dev.kvnmtz.createmobspawners:create_mob_spawners:3.1.0@jar",
           "name": "Create: Mob Spawners",
           "type": "ForgeMod",
@@ -1396,6 +1396,26 @@
             "size": 358535,
             "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/create_utilities-0.3.2+1.20.1.jar",
             "MD5": "c2be7c7e4a7f232575a90bc2208181be"
+          }
+        },
+        {
+          "id": "com.sudolev:dynamicvillage:0.4@jar",
+          "name": "Create: Dynamic Village",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 202805,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/create-dynamicvillage-v0.4-1.20.1.jar",
+            "MD5": "32b1487de70a8e0d09e65627958be9c9"
+          }
+        },
+        {
+          "id": "com.finchy:pipeorgans:0.7.3+1.20.1@jar",
+          "name": "Create: Sound of Steam",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2742472,
+            "url": "https://jotechah.github.io/servers/ToleranceV1-1.20.1/forgemods/required/create-pipeorgans-0.7.3+1.20.1.jar",
+            "MD5": "0c752873f79c5b29a448ac070c6d2c62"
           }
         },
         {
